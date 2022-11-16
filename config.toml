@@ -1,4 +1,4 @@
-baseURL = 'https://play.neurodesk.org/'
+baseURL = 'http://play.neurodesk.org/'
 languageCode = 'en-us'
 title = 'Neurodesk Play'
 theme = 'beautifulhugo'
