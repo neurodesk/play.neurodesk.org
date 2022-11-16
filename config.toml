@@ -1,3 +1,3 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://play.neurodesk.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Neurodesk Play'
