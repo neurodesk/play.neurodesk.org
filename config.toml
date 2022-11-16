@@ -1,3 +1,21 @@
 baseURL = 'http://play.neurodesk.org/'
 languageCode = 'en-us'
 title = 'Neurodesk Play'
+theme = 'beautifulhugo'
+
+[Params]
+  homeTitle = "Neurodesk Play" # Set a different text for the header on the home page
+  subtitle = "Run a demo of neurodesktop without installing anything"
+  mainSections = ["post","posts"]
+#   logo = "img/neurodesk.svg" # Expecting square dimensions
+  favicon = "img/neurodesk.svg"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = false
+  socialShare = false
+  delayDisqus = false
+  showRelatedPosts = false
