@@ -1,12 +1,12 @@
 
 Choose the link below closest to your location
 
-| Location        | Neurodesk Play link                                                                                       |
-|-----------------|-----------------------------------------------------------------------------------------------------------|
-| Australia East  | https://play-sydney.neurodesk.org/v2/gh/neurodesk/jupyter-neurodesktop-image/main?urlpath=neurodesktop    |
-| US West         | https://play-phoenix.neurodesk.org/v2/gh/neurodesk/jupyter-neurodesktop-image/main?urlpath=neurodesktop   |
-| US East         | https://play-ashburn.neurodesk.org/v2/gh/neurodesk/jupyter-neurodesktop-image/main?urlpath=neurodesktop   |
-| Germany Central | https://play-frankfurt.neurodesk.org/v2/gh/neurodesk/jupyter-neurodesktop-image/main?urlpath=neurodesktop |
+| Location        | Neurodesktop on play                                                                                                      | Binder on play                                 |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Australia East  | [neurodesktop](https://play-sydney.neurodesk.org/v2/gh/neurodesk/jupyter-neurodesktop-image/main?urlpath=neurodesktop)    | [binder](https://play-sydney.neurodesk.org)    |
+| US West         | [neurodesktop](https://play-phoenix.neurodesk.org/v2/gh/neurodesk/jupyter-neurodesktop-image/main?urlpath=neurodesktop)   | [binder](https://play-phoenix.neurodesk.org)   |
+| US East         | [neurodesktop](https://play-ashburn.neurodesk.org/v2/gh/neurodesk/jupyter-neurodesktop-image/main?urlpath=neurodesktop)   | [binder](https://play-ashburn.neurodesk.org)   |
+| Germany Central | [neurodesktop](https://play-frankfurt.neurodesk.org/v2/gh/neurodesk/jupyter-neurodesktop-image/main?urlpath=neurodesktop) | [binder](https://play-frankfurt.neurodesk.org) |
 
 
 For instructions on using Neurodesk Play check the following link
