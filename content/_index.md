@@ -1,5 +1,11 @@
 
-Choose the link below closest to your location
+Choose from the links below closest to your location
+
+For instructions on using Neurodesk Play/Lab check the following link
+https://www.neurodesk.org/docs/neurodesktop/getting-started/play/
+
+
+## 1) Neurodesk Play: Temporary session - no data is stored, no authentication required:
 
 | Location        | Neurodesktop on play                                                                                            |
 |-----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -11,7 +17,10 @@ Choose the link below closest to your location
 
 The Neurodesk-play instances above do not require authentication, but because of this do not store any data across sessions.
 
+
 If you would like to keep your home directory across sessions, you can use the following Brainhack Neurodesk-Lab instances and authenticate via Github:
+
+## 2) Neurodesk Lab: Persistent session - 50GB home directory - requires github authentication:
 
 | Location        | Brainhack Jupyter Lab with persistent storage               |
 |-----------------|-------------------------------------------------------------|
@@ -19,5 +28,3 @@ If you would like to keep your home directory across sessions, you can use the f
 | North America   | [start neurodesk lab](https://bhnam.neurodesk.org/)         | 
 | Europe          | [start neurodesk lab](https://bheurope.neurodesk.org/)      | 
 
-For instructions on using Neurodesk Play/Lab check the following link
-https://www.neurodesk.org/docs/neurodesktop/getting-started/play/
