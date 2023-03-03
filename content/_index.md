@@ -24,7 +24,10 @@ To use Neurodesk Play, choose the link below closest to your location:
 <!-- 
 The Neurodesk-play instances above do not require authentication, but because of this do not store any data across sessions.
 
+
 If you would like to keep your home directory across sessions, you can use the following Brainhack Neurodesk-Lab instances and authenticate via Github:
+
+## 2) Neurodesk Lab: Persistent session - 50GB home directory - requires github authentication:
 
 | Location        | Brainhack Jupyter Lab with persistent storage               |
 |-----------------|-------------------------------------------------------------|
