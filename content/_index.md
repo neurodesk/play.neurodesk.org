@@ -11,8 +11,8 @@ To use Neurodesk Play, choose the link below closest to your location:
 
 - [Australia East](https://play-sydney.neurodesk.org/v2/gh/neurodesk/neurodesktop/main)
 - [US West](https://play-phoenix.neurodesk.org/v2/gh/neurodesk/neurodesktop/main)
-- [Germany Central](https://play-frankfurt.neurodesk.org/v2/gh/neurodesk/jupyter-neurodesktop-image/main)
-- [US East](https://play-ashburn.neurodesk.org/v2/gh/neurodesk/jupyter-neurodesktop-image/main)
+- [Germany Central](https://play-frankfurt.neurodesk.org/v2/gh/neurodesk/neurodesktop/main)
+- [US East](https://play-ashburn.neurodesk.org/v2/gh/neurodesk/neurodesktop/main)
 
 >  See [Neurodesk.org](https://www.neurodesk.org/docs/neurodesktop/getting-started/play) for information on the Neurodesk project
 
