@@ -5,8 +5,6 @@ Neurodesk Play
 - Files and session is deleted after exiting
 - Does **NOT** preserve files from previous sessions
 
-> See [Neurodesk Lab](https://lab.neurodesk.org) for keeping data across sessions
-
 To use Neurodesk Play, choose the link below closest to your location:
 
 - [Australia East](https://play-sydney.neurodesk.org/v2/gh/neurodesk/neurodesktop/main)
