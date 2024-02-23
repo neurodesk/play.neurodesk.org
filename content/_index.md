@@ -8,8 +8,8 @@ Neurodesk Play
 
 To use Neurodesk Play, choose the link below closest to your location:
 
-- [Australia](https://play-sydney.neurodesk.org/v2/gh/neurodesk/neurodesktop/main)
-- [US](https://play-iowa.neurodesk.org/v2/gh/neurodesk/neurodesktop/main)
-- [Europe](https://play-frankfurt.neurodesk.org/v2/gh/neurodesk/neurodesktop/main)
+- [Australia](https://play-sydney.neurodesk.org)
+- [US](https://play-iowa.neurodesk.org)
+- [Europe](https://play-frankfurt.neurodesk.org)
 
 >  See [Neurodesk.org](https://www.neurodesk.org/docs/neurodesktop/getting-started/play) for information on the Neurodesk project
