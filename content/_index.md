@@ -1,7 +1,7 @@
 
 Neurodesk Play
 - Recommended for quick access and trialling
-- No login or sign-up required
+- No login or sign-up required (except for AAF authentication at the Australian Play server)
 - Files and sessions are deleted after exiting
 - Does **NOT** preserve files from previous sessions
 - only a limited number of instances are available and the CPU and RAM are limited as well. If you require more sessions or resources, it's possible to run a custom Neurodesk lab (https://lab.neurodesk.org). For more information, please get in touch: mail.neurodesk@gmail.com
