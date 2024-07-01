@@ -10,6 +10,6 @@ To use Neurodesk Play, choose the link below closest to your location:
 
 - [Australia](https://play.neurodesk.cloud.edu.au)
 - [US](https://play-iowa.neurodesk.org)
-- [Europe](https://play-europe.neurodesk.org)
+- [Europe](https://play-frankfurt.neurodesk.org)
 
 >  See [Neurodesk.org](https://www.neurodesk.org/docs/neurodesktop/getting-started/play) for information on the Neurodesk project
