@@ -9,7 +9,7 @@ Neurodesk Play
 To use Neurodesk Play, choose the link below closest to your location:
 
 - [Australia](https://play.neurodesk.cloud.edu.au) (provided through ARDC resources and is only available for Australian Researchers with AAF login)
-- [US](https://play-iowa.neurodesk.org) (enabled through google cloud sponsorship)
-- [Europe](https://play-frankfurt.neurodesk.org) (enabled through services and resources provided by the EGI Federation with the dedicated support of CESNET-MCC)
+- [US](https://play-america.neurodesk.org) (enabled through google cloud sponsorship)
+- [Europe](https://play-europe.neurodesk.org) (enabled through services and resources provided by the EGI Federation with the dedicated support of CESNET-MCC)
 
 >  See [Neurodesk.org](https://www.neurodesk.org/docs/neurodesktop/getting-started/play) for information on the Neurodesk project
