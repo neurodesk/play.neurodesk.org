@@ -10,4 +10,6 @@ To use Neurodesk Play, choose the link below closest to your location:
 - [US](https://play-america.neurodesk.org) (enabled through Jetstream2 cloud resources; requires GitHub login)
 - [Europe](https://play-europe.neurodesk.org) (enabled through services and resources provided by the EGI Federation with the dedicated support of CESNET-MCC)
 
->  See [Neurodesk.org](https://www.neurodesk.org/docs/neurodesktop/getting-started/play) for information on the Neurodesk project
+To transfer data onto Neurodesk Play:
+
+We provide different ways from [drag-and-drop](https://www.neurodesk.org/docs/getting-started/neurodesktop/storage/#drag-and-drop), to [cloud storage](https://www.neurodesk.org/docs/getting-started/neurodesktop/storage/#cloud-storage) to transfer your files in and out of Neurodesk Play.
