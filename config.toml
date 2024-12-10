@@ -19,3 +19,7 @@ theme = 'beautifulhugo'
   socialShare = false
   delayDisqus = false
   showRelatedPosts = false
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-79YDF6TV64'
