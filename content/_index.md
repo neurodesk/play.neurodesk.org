@@ -5,9 +5,9 @@ Neurodesk Play
 
 To use Neurodesk Play, choose the link below closest to your location:
 
-- [Australia](https://play.neurodesk.cloud.edu.au) (enabled through ARDC resources; requires AAF login)
-- [US](https://play-america.neurodesk.org) (enabled through Jetstream2 cloud resources; requires GitHub login)
-- [Europe](https://play-europe.neurodesk.org) (enabled through services and resources provided by the EGI Federation with the dedicated support of CESNET-MCC; requires GitHub login)
+- [Australia](https://play.neurodesk.cloud.edu.au) (requires AAF login; when using this service for research, you need to acknowledge: "This research was supported by use of the Nectar Research Cloud, a collaborative Australian research platform supported by the NCRIS-funded Australian Research Data Commons (ARDC)")
+- [US](https://play-america.neurodesk.org) (requires GitHub login; when using this service for research, you need to acknowledge: "This research was supported by Jetstream2 (NSF award #2005506), which is supported by the National Science Foundation. Jetstream2 is a cloud computing resource managed by the Indiana University Pervasive Technology Institute and part of the ACCESS project." )
+- [Europe](https://play-europe.neurodesk.org) (requires GitHub login; when using this service for your research, you need to acknowledge: "Enabled through services and resources provided by the EGI Federation with the dedicated support of CESNET-MCC. Computational resources were provided by the e-INFRA CZ project (ID:90254), supported by the Ministry of Education, Youth and Sports of the Czech Republic.")
 
 To transfer data onto Neurodesk Play:
 
